@@ -1,4 +1,4 @@
-# 🏢 TechCorp — Infrastructure IT complète d'une PME
+# 🏢 TechCorp : Infrastructure IT complète d'une PME
 
 > Ce dépôt documente la conception, le déploiement et l'administration de l'infrastructure IT complète d'une PME fictive de 50 personnes, répartie sur deux sites (Paris et Lyon).
 
