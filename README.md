@@ -4,21 +4,6 @@
 
 ---
 
-## 🎯 Objectifs du projet
-
-Ce projet couvre l'ensemble des compétences d'un administrateur systèmes et réseaux :
-
-- Conception d'une **topologie réseau** avec segmentation par VLANs et DMZ
-- Administration de serveurs **Windows Server** (Active Directory, GPO, DNS, DHCP)
-- Administration de serveurs **Linux** (Samba, SSH, Apache, Fail2Ban)
-- Mise en place d'un **VPN** site-à-site et d'accès distant (WireGuard)
-- Configuration d'un **pare-feu** avec règles de filtrage par zone (pfSense / iptables)
-- **Scripting** Bash, PowerShell et Python pour automatiser l'exploitation
-- Déploiement d'un **système de ticketing** (GLPI) et d'un **intranet**
-- **Supervision** de l'infrastructure avec Zabbix
-
----
-
 ## 🗂️ Structure du dépôt
 
 ```
